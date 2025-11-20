@@ -38,3 +38,5 @@ The page displays:
 .
 ├── index.html   # Main HTML file
 └── styles.css   # All styling for the newspaper layout
+└── assets/
+      └── Newspaper-Article.png

@@ -17,6 +17,7 @@ The page displays:
 - Two text columns with a drop-cap first letter
 - A secondary image aligned with the second column
 
+![Website Preview](assets/Newspaper-Article.png)
 ---
 
 ## Tech Stack
